@@ -1,10 +1,6 @@
-<center><h1> What about A Header?</h1></center>
-### Hi there 👋
-<div class="myWrapper" markdown="1">
-# my markdown content
+<h1 align="center">Hi 👋, I'm Eyal</h1>
+<h3 align="center">Computer Science student at Ariel University</h3>
 
-this content is wrapped into a div with class "myWrapper"
-</div>
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Java, Python and C langauges
