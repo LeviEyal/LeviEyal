@@ -2,7 +2,6 @@
 <h3 align="center">Computer Science student at Ariel University</h3>
 
 - 🌱 I’m currently learning Java, Python and C langauges
-- 👯 I’m looking to collaborate on ...
 - 💬 LinkedIn: http://www.linkedin.com/in/eyalevi
 - 📫 Email: happyeyal@gmail.com
 
@@ -22,6 +21,5 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-
 <a href="https://www.gitkraken.com" title="Gitkraken"> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/3d586ebac68a43c8358d030ee96c9e07afeff489/logos/gitkraken.svg" alt="Gitkraken" width="40" height="40"/></a>
 </p>
