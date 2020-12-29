@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviEyal&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeviEyal&show_icons=true&theme=solarized-light&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeviEyal&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
