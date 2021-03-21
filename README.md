@@ -21,5 +21,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://www.cplusplus.com" title="Gitkraken"> <img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="c++" width="40" height="40"/></a>
+<a href="https://www.cplusplus.com" title="c++"> <img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="c++" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="javaScript"> <img src="https://github.com/get-icon/geticon/blob/master/logos/javascript.svg" alt="javaScript" width="40" height="40"/></a>
+<a href="https://www.cplusplus.com" title="nodeJS"> <img src="https://github.com/get-icon/geticon/blob/master/logos/nodejs.svg" alt="nodeJS" width="40" height="40"/></a>
 </p>
