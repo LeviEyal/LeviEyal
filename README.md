@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Eyal</h1>
 <h3 align="center">Computer Science student at Ariel University</h3>
 
-- 🌱 I’m currently learning Java, Python and C langauges
+- 🌱 I’m currently learning Java, Python, C, JavaScript and C++ langauges
 - 💬 LinkedIn: http://www.linkedin.com/in/eyalevi
 - 📫 Email: happyeyal@gmail.com
 
