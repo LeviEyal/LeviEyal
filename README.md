@@ -5,9 +5,10 @@
 [![Github](https://img.shields.io/github/followers/LeviEyal?label=Followers&style=social)](https://github.com/LeviEyal) 
 [![GitHub stars](https://img.shields.io/github/stars/LeviEyal?label=Stars&style=social)](https://github.com/LeviEyal)
 
+
 - 🌱 I’m currently learning Java, Python, C, JavaScript and C++ langauges
-- 💬 LinkedIn: http://www.linkedin.com/in/eyalevi
-- 📫 Email: happyeyal@gmail.com
+- 💬 LinkedIn: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+- 📫 Email: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviEyal&theme=slateorange&layout=compact" />
