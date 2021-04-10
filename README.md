@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Eyal</h1>
 <h3 align="center">Computer Science student at Ariel University</h3>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=LeviEyal.LeviEyal) 
 [![Github](https://img.shields.io/github/followers/LeviEyal?label=Followers&style=social)](https://github.com/LeviEyal) 
 [![GitHub stars](https://img.shields.io/github/stars/LeviEyal?label=Stars&style=social)](https://github.com/LeviEyal)
