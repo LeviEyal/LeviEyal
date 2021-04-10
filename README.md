@@ -7,8 +7,8 @@
 
 
 - 🌱 I’m currently learning Java, Python, C, JavaScript and C++ langauges
-- 💬 LinkedIn: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-- 📫 Email: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+- 💬 My LinkedIn profile:<a href="https://git-scm.com/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a>
+- 📫 Email:<a href="https://git-scm.com/" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviEyal&theme=slateorange&layout=compact" />
