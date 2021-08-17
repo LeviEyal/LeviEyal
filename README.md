@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/LeviEyal"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
 
 
-<h1> 🔬 My Knolege:</h1>
+<h1> 🔬 My Knowlege:</h1>
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
