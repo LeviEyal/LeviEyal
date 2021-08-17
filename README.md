@@ -5,6 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-happyeyal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyeyal@gmail.com)](mailto:happyeyal@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeviEyal/LeviEyal)
 <a href="https://www.facebook.com/EyaLevi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
+<a href="https://www.hackerrank.com/LeviEyal"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=LeviEyal.LeviEyal) 
 [![Github](https://img.shields.io/github/followers/LeviEyal?label=Followers&style=social)](https://github.com/LeviEyal) 
@@ -57,5 +59,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="40"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="40"/>
+    <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit" height="40"/>
 </span>
 </p>
