@@ -9,8 +9,7 @@
   
 </h3>
 
-
-- 🌱 I’m currently learning JavaScript(ES6), React, HTML and CSS.
+- 🌱 Seeking a Full-stack development student position. HIRE ME!
 
 <h3> 📫 Contact Me:</h3>
 
@@ -31,7 +30,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaSqript" height="40"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="40"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css" height="40"/>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=whitee" alt="andoidStudio" height="40"/>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="andoidStudio" height="40"/>
 </span>
 
 <h4 align="left">Data Bases:</h3>
