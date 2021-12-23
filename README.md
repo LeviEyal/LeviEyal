@@ -9,7 +9,7 @@
   
 </h3>
 
-- 🌱 Seeking a Full-stack development student position. HIRE ME!
+- 🌱 Seeking a Full Stack development student position. HIRE ME!
 
 <h3> 📫 Contact Me:</h3>
 
