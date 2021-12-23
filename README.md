@@ -73,3 +73,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeviEyal&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
+
+<!-- All badges can be fount here: https://github.com/Ileriayo/markdown-badges -->
