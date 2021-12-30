@@ -9,8 +9,6 @@
   
 </h3>
 
-- 🌱 Seeking a Full Stack development student position. HIRE ME!
-
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/eyalevi/)](http://www.linkedin.com/in/eyalevi)
