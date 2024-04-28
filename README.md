@@ -15,3 +15,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-happyeyal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyeyal@gmail.com)](mailto:happyeyal@gmail.com)
 <a href="https://www.facebook.com/EyaLevi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
 <a href="https://www.hackerrank.com/LeviEyal"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
+
+<a href="https://gitroll.io/profile/utnB2klqyLpeH4fQ65z7gfsdUpGs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utnB2klqyLpeH4fQ65z7gfsdUpGs1" alt="GitRoll Profile Badge"/></a>
